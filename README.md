@@ -1,7 +1,5 @@
-# Personal website Jan 2014
+# Personal website Oct 2022
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/oyinlola007/pen/qBKOZWg](https://codepen.io/oyinlola007/pen/qBKOZWg).
-
-My updated website from January 2014
+My updated website from October 2022
 
 Simple, responsive, fast load
